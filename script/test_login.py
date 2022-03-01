@@ -15,3 +15,7 @@ class TestLogin:
     def test_login3(self):
         assert 0
 
+    @allure.severity("blocker")
+    def test_login4(self):
+        assert 0
+
