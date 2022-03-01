@@ -1,0 +1,22 @@
+# ["1","2",{"name":["xiaohong","xiaoming"],"age":"15"},[{"name":"xiaoqiang","age":"18"},"3","4"],"5",["7","8"]]
+
+- "1"
+- "2"
+-
+  "name":
+    - "xiaohogn"
+    - "xiaoming"
+  "age": "15"
+-
+  -
+    "name": "xiaoqaing"
+    "age": "18"
+  - "3"
+  - "4"
+- "5"
+-
+  - "7"
+  - "8"
+
+
+
